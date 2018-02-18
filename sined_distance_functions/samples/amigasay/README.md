@@ -1,0 +1,1 @@
+This directory contains samples produced with the Amiga `say` command.
